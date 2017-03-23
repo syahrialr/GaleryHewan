@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "723652893728",
+    "firebase_url": "https://gallery-hewan.firebaseio.com",
+    "project_id": "gallery-hewan",
+    "storage_bucket": "gallery-hewan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723652893728:android:d5ce058e51deece0",
+        "android_client_info": {
+          "package_name": "com.example.syahr.galeryhewan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723652893728-h71qv2emivg7rsluc84i8riaq3kuq57c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPZ9OEbDBTjfwOpQz1xuKETSOEQsRQ-Zw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
